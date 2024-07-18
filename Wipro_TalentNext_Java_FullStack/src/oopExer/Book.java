@@ -101,7 +101,7 @@ class Book {
         author.printAllDetails();
     }
 
-    public static void main(String[] args) {
+    public static  void main(String[] args) {
         Author author = new Author("J.K Rowling", "jk@123", 'F');
         Book book = new Book("Harry Potter", author, 35, 100);
         
