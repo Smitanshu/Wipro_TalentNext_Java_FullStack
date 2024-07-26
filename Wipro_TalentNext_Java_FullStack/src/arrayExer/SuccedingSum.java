@@ -22,7 +22,7 @@ public class SuccedingSum {
 			sum1+=array[i];
 		}
 		
-		System.out.println(sum2-sum1);
+		System.out.println("Succeding Sum :"+ (sum2-sum1));
 		
 	}
 }
