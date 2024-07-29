@@ -1,8 +1,5 @@
 package collection;
-
 import java.util.ArrayList;
-
-
 public class ListArrayList {
 
    public static void printArrayList(ArrayList<String> arr ) {
@@ -11,7 +8,7 @@ public class ListArrayList {
 	   }
    }
 	public static void main(String[] args) {
-		ArrayList<String> arr=new  ArrayList();
+		ArrayList<String> arr=new  ArrayList<String>();
 		arr.add("January");
 		arr.add("February");
 		
