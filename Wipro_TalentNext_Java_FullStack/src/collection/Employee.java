@@ -1,4 +1,5 @@
 package collection;
+//This class is also using the PrintVectirUsingIteratorEnumeration.java
 public class Employee {
 	private int empID;
 	private String empName;
@@ -38,7 +39,7 @@ public class Employee {
 		return salary;
 	}
 
-	public void getEmployeeDetails() {
+	public  void getEmployeeDetails() {
 	
 		System.out.println("empId:" + empID);
 		System.out.println("Employee Name:" + empName);
