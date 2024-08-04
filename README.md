@@ -11,7 +11,7 @@
 - Away from the platform dependent.
 - also Java is used to produce the platform neutral code.
 
-![Architecture of Java](Arch.png)
+![Architecture of Java](Day1/Arch.png)
 
 # Java Virtual Machine :
 - JVM is platform specific.
