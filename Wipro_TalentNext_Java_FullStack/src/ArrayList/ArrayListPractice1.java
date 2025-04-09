@@ -5,6 +5,10 @@ import java.util.List;
 
 public class ArrayListPractice1 {
     List<Integer> integerArrayList = new ArrayList<Integer>();
+
+
+
+
     List<String> stringArrayList = new ArrayList<String>();
 
 
