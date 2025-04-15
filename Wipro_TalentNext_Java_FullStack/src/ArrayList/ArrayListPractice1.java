@@ -7,8 +7,6 @@ public class ArrayListPractice1 {
     List<Integer> integerArrayList = new ArrayList<Integer>();
 
 
-
-
     List<String> stringArrayList = new ArrayList<String>();
 
 
@@ -31,6 +29,7 @@ public class ArrayListPractice1 {
         obj.stringArrayList.add("Himanshu");
         obj.stringArrayList.add("Devendra");
         obj.stringArrayList.add("Ukey");
+        obj.stringArrayList.add("Hiii");
         System.out.println(obj.stringArrayList);
     }
 }
