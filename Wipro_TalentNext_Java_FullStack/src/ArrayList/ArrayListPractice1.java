@@ -30,6 +30,7 @@ public class ArrayListPractice1 {
         obj.stringArrayList.add("Devendra");
         obj.stringArrayList.add("Ukey");
         obj.stringArrayList.add("Hiii");
+
         System.out.println(obj.stringArrayList);
     }
 }
